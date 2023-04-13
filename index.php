@@ -98,7 +98,7 @@ else if($a=='mercredi'){
     <label for="nomCP">Nom CP:</label>
     <input name="nomCP" id="nomCP" type="password">
     <input type="submit" name="tester" value="tester">
-<input type="retour" name="retour">
+
 </form>
 
 </body>
